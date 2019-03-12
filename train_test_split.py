@@ -17,4 +17,3 @@ for img_class in file:
         else:
             shutil.copy(source1 + img_class + '/' + image,
              dest1 + 'train/' + img_class + '/' + image)
-             
